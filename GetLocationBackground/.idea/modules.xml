@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GetLocationBackground.iml" filepath="$PROJECT_DIR$/GetLocationBackground.iml" group="GetLocationBackground" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GetLocationBackground/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GetLocationBackground.iml" filepath="$PROJECT_DIR$/.idea/modules/GetLocationBackground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GetLocationBackground.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GetLocationBackground.app.iml" />
     </modules>
   </component>
 </project>

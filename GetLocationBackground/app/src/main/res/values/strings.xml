@@ -5,4 +5,8 @@
     <string name="gps_enable">GPS enable</string>
     <string name="please_turn_on_gps">Please turn on GPS</string>
     <string name="ok">Ok</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop It</string>
+    <string name="preference_file_key">sharedprefs</string>
+    <string name="user_stopped_service">user_stopped_service</string>
 </resources>
